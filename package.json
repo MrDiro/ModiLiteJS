@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "modilitejs",
   "description": "ModiLiteJS is a typescript library for writing modular code with components and dependency injection.",
   "author": {
