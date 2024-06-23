@@ -7,7 +7,7 @@ ModiLiteJS is a library for writing modular code with components and dependency 
 You can install the library using npm:
 
 ```bash
-npm install app-factory
+npm install modilitejs
 ```
 
 ## Usage
