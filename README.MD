@@ -1,6 +1,6 @@
 # ModiLiteJS
 
-ModiLiteJS is a library for writing modular code with components and dependency injection. It simplifies the development process by allowing you to easily define and manage modules, components, and services, enabling a clean and organized codebase.
+ModiLiteJS is a typescript library for writing modular code with components and dependency injection. It simplifies the development process by allowing you to easily define and manage modules, components, and services, enabling a clean and organized codebase.
 
 ## Installation
 
