@@ -1,1 +1,6 @@
+# Dependencias y módulos generados por herramientas de desarrollo
+node_modules/
+bower_components/
+vendor/
+temp/
 src/

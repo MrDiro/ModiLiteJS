@@ -1,2 +1,27 @@
-#folders
+# Archivos de respaldo creados por editores de texto
+*~
+
+# Archivos temporales
+*.tmp
+
+# Directorios generados por sistemas operativos o IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencias y módulos generados por herramientas de desarrollo
 node_modules/
+bower_components/
+vendor/
+temp/
+
+# Archivos de registro
+*.log
+
+# Archivos de compilación y resultados de pruebas
+build/
+dist/
+out/
+coverage/
+log/
