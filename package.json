@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "name": "modilitejs",
+  "description": "ModiLiteJS is a library for writing modular code with components and dependency injection.",
+  "author": {
+    "name": "cdairo22",
+    "email": "cdairo2204@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "component",
+    "service",
+    "module",
+    "app",
+    "application",
+    "factory",
+    "modular",
+    "code",
+    "command",
+    "line",
+    "cli"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrDiro/app-factory.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
